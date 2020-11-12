@@ -1,0 +1,1 @@
+'pretrained_model.h5' is missing from the 'Naïve Bees - 3 - Deep Learning with Images/datasets' directory because it is larger than GitHub's size limit of 25MB.
