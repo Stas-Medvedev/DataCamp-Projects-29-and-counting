@@ -38,7 +38,7 @@ Comparison of 20 books written by Charles Darwin using their TFIDF vectors and v
 
 
 [**Extract Stock Sentiment from News Headlines**](https://github.com/Stas-Medvedev/Projects/tree/main/Extract%20Stock%20Sentiment%20from%20News%20Headlines)  
-Scraping and analyzing sentiment of Finviz headlines regarding Facebook and Tesla stock  
+Scraping and analyzing sentiment of Finviz headlines about Facebook and Tesla stock  
 (BeautifulSoup, NLTK, Pandas, matplotlib)
 
 [**Find Movie Similarity from Plot Summaries**](https://github.com/Stas-Medvedev/Projects/tree/main/Find%20Movie%20Similarity%20from%20Plot%20Summaries)  
