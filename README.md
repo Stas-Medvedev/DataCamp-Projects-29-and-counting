@@ -5,7 +5,7 @@ Jupyter notebooks of completed projects and associated datasets
 (Libraries used in each project are listed in parantheses)
 
 [**A Network Analysis of Game of Thrones**](https://github.com/Stas-Medvedev/Projects/tree/main/A%20Network%20Analysis%20of%20Game%20of%20Thrones)  
-Network analysis of RR Martin's book series using betweenness and degree centralities  
+Network analysis of RR Martin's book series characters using betweenness and degree centralities  
 (NetworkX, Pandas)
 
 **A New Era of Data Analysis in Baseball**
