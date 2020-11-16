@@ -43,7 +43,7 @@ Scraping and analyzing sentiment of Finviz headlines about Facebook and Tesla st
 
 [**Find Movie Similarity from Plot Summaries**](https://github.com/Stas-Medvedev/Projects/tree/main/Find%20Movie%20Similarity%20from%20Plot%20Summaries)  
 Comparison of 100 movies based on TFIDF vectors of their plot summaries and vector similarities  
-(NumPy, Pandas, NLTK, scikit-learn, SciPy)
+(NLTK, scikit-learn, Pandas, NumPy, SciPy)
 
 **Generating Keywords for Google Ads**
 
