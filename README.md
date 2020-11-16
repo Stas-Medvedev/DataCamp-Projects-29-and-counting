@@ -13,12 +13,13 @@ Jupyter notebooks of completed projects and associated datasets
 **A Visual History of Nobel Prize Winners**
 
 
-[**ASL Recognition with Deep Learning**](https://github.com/Stas-Medvedev/Projects/tree/main/ASL%20Recognition%20with%20Deep%20Learning)
-Training a convolutional network to classify images of letters 'A', 'B', and 'C' of the American Sign Language
+[**ASL Recognition with Deep Learning**](https://github.com/Stas-Medvedev/Projects/tree/main/ASL%20Recognition%20with%20Deep%20Learning)  
+Training a convolutional network to classify images of letters of the American Sign Language  
 (Keras, NumPy, matplotlib)
 
-[**Book Recommendations from Charles Darwin**](https://github.com/Stas-Medvedev/Projects/tree/main/Book%20Recommendations%20from%20Charles%20Darwin)
-Comparison of 20 books written by Charles Darwin using their TFIDF vectors and vector similarities
+
+[**Book Recommendations from Charles Darwin**](https://github.com/Stas-Medvedev/Projects/tree/main/Book%20Recommendations%20from%20Charles%20Darwin)  
+Comparison of 20 books written by Charles Darwin using their TFIDF vectors and vector similarities  
 (Gensim, Pandas, SciPy)
 
 **Classify Song Genres from Audio Data**
@@ -36,11 +37,12 @@ Comparison of 20 books written by Charles Darwin using their TFIDF vectors and v
 **Exploring the Evolution of Linux**
 
 
-**Extract Stock Sentiment from News Headlines**
+[**Extract Stock Sentiment from News Headlines**](https://github.com/Stas-Medvedev/Projects/tree/main/Extract%20Stock%20Sentiment%20from%20News%20Headlines)  
+Scraping and analyzing sentiment of Finviz headlines regarding Facebook and Tesla stock  
+(BeautifulSoup, NLTK, Pandas, matplotlib)
 
-
-**Find Movie Similarity from Plot Summaries**
-Comparison of 100 movies based on TFIDF vectors of their plot summaries and vector similarities
+[**Find Movie Similarity from Plot Summaries**](https://github.com/Stas-Medvedev/Projects/tree/main/Find%20Movie%20Similarity%20from%20Plot%20Summaries)  
+Comparison of 100 movies based on TFIDF vectors of their plot summaries and vector similarities  
 (NumPy, Pandas, NLTK, scikit-learn, SciPy)
 
 **Generating Keywords for Google Ads**
@@ -52,14 +54,17 @@ Comparison of 100 movies based on TFIDF vectors of their plot summaries and vect
 **Name Game - Gender Prediction using Sound**
 
 
-**Naïve Bees - 1 - Image Loading and Processing**
+[**Naïve Bees - 1 - Image Loading and Processing**](https://github.com/Stas-Medvedev/Projects/tree/main/Na%C3%AFve%20Bees%20-%201%20-%20Image%20Loading%20and%20Processing)  
+Loading and processing images using PIL and NumPy  
+(Pillow, Pandas, NumPy, matplotlib)
 
+[**Naïve Bees - 2 - Predict Species from Images**](https://github.com/Stas-Medvedev/Projects/tree/main/Na%C3%AFve%20Bees%20-%202%20-%20Predict%20Species%20from%20Images)  
+Bee and bumble bee image classification using histogram of oriented gradients, principal component analysis, and support vector classifier  
+(scikit-image, scikit-learn, Pandas, NumPy, matplotlib)
 
-**Naïve Bees - 2 - Predict Species from Images**
-
-
-**Naïve Bees - 3 - Deep Learning with Images**
-
+[**Naïve Bees - 3 - Deep Learning with Images**](https://github.com/Stas-Medvedev/Projects/tree/main/Na%C3%AFve%20Bees%20-%203%20-%20Deep%20Learning%20with%20Images)  
+Bee and bumble bee image classification using a convolutional neural network  
+(Keras, scikit-learn, Pandas, NumPy, matplotlib)
 
 **Predicting Credit Card Approvals**
 
@@ -85,4 +90,6 @@ Comparison of 100 movies based on TFIDF vectors of their plot summaries and vect
 **Who's Tweeting - Trump or Trudeau**
 
 
-**Word Frequency in Classic Novels**
+[**Word Frequency in Classic Novels**](https://github.com/Stas-Medvedev/Projects/tree/main/Word%20Frequency%20in%20Classic%20Novels)  
+Scraping the novel and calculating word frequency in Herman Melville's 'Moby Dick'  
+(BeautifulSoup, NLTK)
