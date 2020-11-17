@@ -8,11 +8,13 @@ Jupyter notebooks of completed projects and associated datasets
 Network analysis of RR Martin's book series characters using betweenness and degree centralities  
 (NetworkX, Pandas)
 
-**A New Era of Data Analysis in Baseball**
+[**A New Era of Data Analysis in Baseball**](https://github.com/Stas-Medvedev/Projects/tree/main/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball)  
+Analysis of New York Yankees Giancarlo Stanton's and Aaron Judge's Statcast homerun data 
+(Pandas, Seaborn, matplotlib)
 
-
-**A Visual History of Nobel Prize Winners**
-
+[**A Visual History of Nobel Prize Winners**](https://github.com/Stas-Medvedev/Projects/tree/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)  
+Visual analysis of history of Nobel Prize winners
+(Pandas, NumPy, Seaborn, matplotlib)
 
 [**ASL Recognition with Deep Learning**](https://github.com/Stas-Medvedev/Projects/tree/main/ASL%20Recognition%20with%20Deep%20Learning)  
 Training a convolutional network to classify images of letters of the American Sign Language  
