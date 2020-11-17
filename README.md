@@ -20,15 +20,15 @@ Visual analysis of history of Nobel Prize winners
 Training a convolutional network to classify images of letters of the American Sign Language  
 (Keras, NumPy, matplotlib)
 
-
 [**Book Recommendations from Charles Darwin**](https://github.com/Stas-Medvedev/Projects/tree/main/Book%20Recommendations%20from%20Charles%20Darwin)  
 Comparison of 20 books written by Charles Darwin using their TFIDF vectors and vector similarities  
 (Gensim, Pandas, SciPy)
 
-**Classify Song Genres from Audio Data**
+[**Classify Song Genres from Audio Data**](https://github.com/Stas-Medvedev/Projects/tree/main/Classify%20Song%20Genres%20from%20Audio%20Data)  
+Song genre classification based on The Echo Nest data using principal component analysis, and decision tree and logistic regression classifiers  
+(scikit-learn, Pandas, NumPy, matplotlib)
 
-
-**Dr. Semmelweis and the Discovery of Handwashing**
+[**Dr. Semmelweis and the Discovery of Handwashing**](https://github.com/Stas-Medvedev/Projects/tree/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)  
 
 
 **Exploring 67 years of LEGO**
