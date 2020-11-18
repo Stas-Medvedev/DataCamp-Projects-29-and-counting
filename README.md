@@ -29,13 +29,16 @@ Song genre classification based on The Echo Nest data using principal component 
 (scikit-learn, Pandas, NumPy, matplotlib)
 
 [**Dr. Semmelweis and the Discovery of Handwashing**](https://github.com/Stas-Medvedev/Projects/tree/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)  
+Analysis of Dr. Ignaz Semmelweis's data that led to the discovery of the importance of handwashing using data visualization  
+(Pandas, matplotlib)
 
+[**Exploring 67 years of LEGO**](https://github.com/Stas-Medvedev/Projects/tree/main/Exploring%2067%20years%20of%20LEGO)  
+Brief analysis of a Rebrickable database using Pandas   
+(Pandas, matplotlib)
 
-**Exploring 67 years of LEGO**
-
-
-**Exploring the Bitcoin Cryptocurrency Market**
-
+[**Exploring the Bitcoin Cryptocurrency Market**](https://github.com/Stas-Medvedev/Projects/tree/main/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)  
+Brief exploration of market capitalization of different cryptocurrencies using Pandas and matplotlib  
+(Pandas, matplotlib)
 
 **Exploring the Evolution of Linux**
 
