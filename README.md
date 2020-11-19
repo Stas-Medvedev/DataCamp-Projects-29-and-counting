@@ -90,20 +90,23 @@ Amazon and Facebook risk/return analysis using annualized Sharpe ratio
 
 [**TV, Halftime Shows, and the Big Game**](https://github.com/Stas-Medvedev/Projects/blob/main/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb)  
 Analysis of Super Bowl halftime shows and viewership  
-(Pandas, Seaborn, matplotlib
+(Pandas, Seaborn, matplotlib)
 
 [**The Android App Market on Google Play**](https://github.com/Stas-Medvedev/Projects/blob/main/The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb)  
 Analysis of categories, prices, downloads, ratings, and review sentiment for apps on Google Play  
 (Pandas, Plotly, Seaborn, matplotlib)
 
-**The GitHub History of the Scala Language**
+[**The GitHub History of the Scala Language**](https://github.com/Stas-Medvedev/Projects/blob/main/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb)  
+Analysis of Scala's GitHub activity  
+(Pandas, matplotlib)
 
+[**The Hottest Topics in Machine Learning**](https://github.com/Stas-Medvedev/Projects/blob/main/The%20Hottest%20Topics%20in%20Machine%20Learning/notebook.ipynb)  
+Analysis of topics in papers presented at NIPS conferences using latent Derlichlet allocation  
+(scikit-learn, Wordcloud, Pandas, NumPy, matplotlib)
 
-**The Hottest Topics in Machine Learning**
-
-
-**Who's Tweeting - Trump or Trudeau**
-
+[**Who's Tweeting - Trump or Trudeau**](https://github.com/Stas-Medvedev/Projects/blob/main/Who's%20Tweeting%20-%20Trump%20or%20Trudeau/notebook.ipynb)  
+Tweet classification and model comparison using multinomial naive Bayes and linear support vector classifiers  
+(scikit-learn, Pandas, matplotlib)
 
 [**Word Frequency in Classic Novels**](https://github.com/Stas-Medvedev/Projects/tree/main/Word%20Frequency%20in%20Classic%20Novels)  
 Scraping the novel and calculating word frequency in Herman Melville's 'Moby Dick'  
