@@ -9,11 +9,11 @@ Network analysis of RR Martin's book series characters using betweenness and deg
 (NetworkX, Pandas)
 
 [**A New Era of Data Analysis in Baseball**](https://github.com/Stas-Medvedev/Projects/tree/main/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball)  
-Analysis of New York Yankees Giancarlo Stanton's and Aaron Judge's Statcast homerun data 
+Analysis of New York Yankees Giancarlo Stanton's and Aaron Judge's Statcast homerun data  
 (Pandas, Seaborn, matplotlib)
 
 [**A Visual History of Nobel Prize Winners**](https://github.com/Stas-Medvedev/Projects/tree/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)  
-Visual analysis of history of Nobel Prize winners
+Visual analysis of history of Nobel Prize winners  
 (Pandas, NumPy, Seaborn, matplotlib)
 
 [**ASL Recognition with Deep Learning**](https://github.com/Stas-Medvedev/Projects/tree/main/ASL%20Recognition%20with%20Deep%20Learning)  
@@ -40,8 +40,9 @@ Brief analysis of a Rebrickable database using Pandas
 Brief exploration of market capitalization of different cryptocurrencies using Pandas and matplotlib  
 (Pandas, matplotlib)
 
-**Exploring the Evolution of Linux**
-
+[**Exploring the Evolution of Linux**](https://github.com/Stas-Medvedev/Projects/tree/main/Exploring%20the%20Evolution%20of%20Linux)  
+Analysis of Linux's Git repository using Pandas  
+(Pandas)
 
 [**Extract Stock Sentiment from News Headlines**](https://github.com/Stas-Medvedev/Projects/tree/main/Extract%20Stock%20Sentiment%20from%20News%20Headlines)  
 Scraping and analyzing sentiment of Finviz headlines about Facebook and Tesla stock  
@@ -51,14 +52,17 @@ Scraping and analyzing sentiment of Finviz headlines about Facebook and Tesla st
 Comparison of 100 movies based on TFIDF vectors of their plot summaries and vector similarities  
 (NLTK, scikit-learn, Pandas, NumPy, SciPy)
 
-**Generating Keywords for Google Ads**
+[**Generating Keywords for Google Ads**](https://github.com/Stas-Medvedev/Projects/blob/main/Generating%20Keywords%20for%20Google%20Ads/notebook.ipynb)  
+Keyword generation exercise for a Google AdWords campaign using Pandas  
+(Pandas)
 
+[**Mobile Games AB Testing with Cookie Cats**](https://github.com/Stas-Medvedev/Projects/blob/main/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats/notebook.ipynb)  
+Analysis of the effect of gameplay change on player retention for Cookie Cats using A/B testing and bootstrapping  
+(Pandas, matplotlib)
 
-**Mobile Games AB Testing with Cookie Cats**
-
-
-**Name Game - Gender Prediction using Sound**
-
+[**Name Game - Gender Prediction using Sound**](https://github.com/Stas-Medvedev/Projects/blob/main/Name%20Game_%20Gender%20Prediction%20using%20Sound/notebook.ipynb)  
+Predicting the genders of New York Times Best Seller list writers from their names  
+(Fuzzy, Pandas, NumPy, matplotlib)
 
 [**Naïve Bees - 1 - Image Loading and Processing**](https://github.com/Stas-Medvedev/Projects/tree/main/Na%C3%AFve%20Bees%20-%201%20-%20Image%20Loading%20and%20Processing)  
 Loading and processing images using PIL and NumPy  
@@ -72,20 +76,25 @@ Bee and bumble bee image classification using histogram of oriented gradients, p
 Bee and bumble bee image classification using a convolutional neural network  
 (Keras, scikit-learn, Pandas, NumPy, matplotlib)
 
-**Predicting Credit Card Approvals**
+[**Predicting Credit Card Approvals**](https://github.com/Stas-Medvedev/Projects/blob/main/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)  
+Data preprocessing and credit card approval predictions using logistic regression  
+(scikit-learn, Pandas, NumPy)
 
+[**Recreating John Snow's Ghost Map**](https://github.com/Stas-Medvedev/Projects/blob/main/Recreating%20John%20Snow's%20Ghost%20Map/notebook.ipynb)  
+Spatial analysis of Dr. John Snow's cholera outbreak data  
+(Folium, Pandas, Bokeh)
 
-**Recreating John Snow's Ghost Map**
+[**Risk and Returns - The Sharpe Ratio**](https://github.com/Stas-Medvedev/Projects/blob/main/Risk%20and%20Returns_%20The%20Sharpe%20Ratio/notebook.ipynb)  
+Amazon and Facebook risk/return analysis using annualized Sharpe ratio  
+(Pandas, NumPy, matplotlib)
 
+[**TV, Halftime Shows, and the Big Game**](https://github.com/Stas-Medvedev/Projects/blob/main/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb)  
+Analysis of Super Bowl halftime shows and viewership  
+(Pandas, Seaborn, matplotlib
 
-**Risk and Returns - The Sharpe Ratio**
-
-
-**TV, Halftime Shows, and the Big Game**
-
-
-**The Android App Market on Google Play**
-
+[**The Android App Market on Google Play**](https://github.com/Stas-Medvedev/Projects/blob/main/The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb)  
+Analysis of categories, prices, downloads, ratings, and review sentiment for apps on Google Play  
+(Pandas, Plotly, Seaborn, matplotlib)
 
 **The GitHub History of the Scala Language**
 
