@@ -1,8 +1,8 @@
 # Projects
-Jupyter notebooks of completed projects and associated datasets
+Jupyter notebooks of projects completed as part of DataCamp curriculum and associated datasets
 
 ## Project summaries
-(Libraries used in each project are listed in parantheses)
+(Libraries used in each project are listed in parentheses)
 
 [**A Network Analysis of Game of Thrones**](https://github.com/Stas-Medvedev/Projects/blob/main/A%20Network%20Analysis%20of%20Game%20of%20Thrones/notebook.ipynb)  
 Network analysis of RR Martin's book series characters using betweenness and degree centralities  
@@ -21,7 +21,7 @@ Training a convolutional network to classify images of letters of the American S
 (Keras, NumPy, matplotlib)
 
 [**Book Recommendations from Charles Darwin**](https://github.com/Stas-Medvedev/Projects/blob/main/Book%20Recommendations%20from%20Charles%20Darwin/notebook.ipynb)  
-Comparison of 20 books written by Charles Darwin using their TFIDF vectors and vector similarities  
+Comparison of 20 books written by Charles Darwin using their TF-IDF vectors and vector similarities  
 (Gensim, Pandas, SciPy)
 
 [**Classify Song Genres from Audio Data**](https://github.com/Stas-Medvedev/Projects/blob/main/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb)  
@@ -49,7 +49,7 @@ Scraping and analyzing sentiment of Finviz headlines about Facebook and Tesla st
 (BeautifulSoup, NLTK, Pandas, matplotlib)
 
 [**Find Movie Similarity from Plot Summaries**](https://github.com/Stas-Medvedev/Projects/blob/main/Find%20Movie%20Similarity%20from%20Plot%20Summaries/notebook.ipynb)  
-Comparison of 100 movies based on TFIDF vectors of their plot summaries and vector similarities  
+Comparison of 100 movies based on TF-IDF vectors of their plot summaries and vector similarities  
 (NLTK, scikit-learn, Pandas, NumPy, SciPy)
 
 [**Generating Keywords for Google Ads**](https://github.com/Stas-Medvedev/Projects/blob/main/Generating%20Keywords%20for%20Google%20Ads/notebook.ipynb)  
