@@ -22,11 +22,15 @@ Training a convolutional network to classify images of letters of the American S
 
 [**Book Recommendations from Charles Darwin**](https://github.com/Stas-Medvedev/Projects/blob/main/Book%20Recommendations%20from%20Charles%20Darwin/notebook.ipynb)  
 Comparison of 20 books written by Charles Darwin using their TF-IDF vectors and vector similarities  
-(Gensim, Pandas, SciPy)
+(Gensim, SciPy, Pandas)
 
 [**Classify Song Genres from Audio Data**](https://github.com/Stas-Medvedev/Projects/blob/main/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb)  
 Song genre classification based on The Echo Nest data using principal component analysis, and decision tree and logistic regression classifiers  
 (scikit-learn, Pandas, NumPy, matplotlib)
+
+[**Do Left-handed People Really Die Young?**](https://github.com/Stas-Medvedev/DataCamp-Projects/blob/main/Do%20Left-handed%20People%20Really%20Die%20Young_/notebook.ipynb)
+Analysis of life expectancy and people's left/right-handedness using Bayes' Theorem  
+(Pandas, NumPy, matplotlib)
 
 [**Dr. Semmelweis and the Discovery of Handwashing**](https://github.com/Stas-Medvedev/Projects/blob/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)  
 Analysis of Dr. Ignaz Semmelweis's data that led to the discovery of the importance of handwashing using data visualization  
@@ -98,11 +102,15 @@ Analysis of categories, prices, downloads, ratings, and review sentiment for app
 
 [**The GitHub History of the Scala Language**](https://github.com/Stas-Medvedev/Projects/blob/main/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb)  
 Analysis of Scala's GitHub activity  
-(Pandas, matplotlib)
+(SciPy, Pandas, matplotlib)
 
 [**The Hottest Topics in Machine Learning**](https://github.com/Stas-Medvedev/Projects/blob/main/The%20Hottest%20Topics%20in%20Machine%20Learning/notebook.ipynb)  
 Analysis of topics in papers presented at NIPS conferences using latent Derlichlet allocation  
 (scikit-learn, Wordcloud, Pandas, NumPy, matplotlib)
+
+[**Which Debts Are Worth the Bank's Effort**](https://github.com/Stas-Medvedev/DataCamp-Projects/blob/main/Which%20Debts%20Are%20Worth%20the%20Bank's%20Effort/notebook.ipynb)  
+Statistical analysis of the effects of different debt recovery methods using regression discontinuity    
+(Pandas, NumPy, matplotlib)
 
 [**Who's Tweeting - Trump or Trudeau**](https://github.com/Stas-Medvedev/Projects/blob/main/Who's%20Tweeting%20-%20Trump%20or%20Trudeau/notebook.ipynb)  
 Tweet classification and model comparison using multinomial naive Bayes and linear support vector classifiers  
