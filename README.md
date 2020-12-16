@@ -1,8 +1,7 @@
 # Projects
-Jupyter notebooks of projects completed as part of DataCamp curriculum and associated datasets
+These are Jupyter notebooks and associated datasets of projects I completed as part of DataCamp curriculum sorted by project name. Click on the title to go straight to the notebook file. Libraries used in each project are listed in parentheses.
 
 ## Project summaries
-(Libraries used in each project are listed in parentheses)
 
 [**A Network Analysis of Game of Thrones**](https://github.com/Stas-Medvedev/Projects/blob/main/A%20Network%20Analysis%20of%20Game%20of%20Thrones/notebook.ipynb)  
 Network analysis of RR Martin's book series characters using betweenness and degree centralities  
