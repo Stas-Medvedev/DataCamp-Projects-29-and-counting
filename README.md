@@ -28,7 +28,7 @@ Comparison of 20 books written by Charles Darwin using their TF-IDF vectors and 
 Song genre classification based on The Echo Nest data using principal component analysis, and decision tree and logistic regression classifiers  
 (scikit-learn, Pandas, NumPy, matplotlib)
 
-[**Do Left-handed People Really Die Young?**](https://github.com/Stas-Medvedev/DataCamp-Projects/blob/main/Do%20Left-handed%20People%20Really%20Die%20Young_/notebook.ipynb)
+[**Do Left-handed People Really Die Young?**](https://github.com/Stas-Medvedev/DataCamp-Projects/blob/main/Do%20Left-handed%20People%20Really%20Die%20Young_/notebook.ipynb)  
 Analysis of life expectancy and people's left/right-handedness using Bayes' Theorem  
 (Pandas, NumPy, matplotlib)
 
